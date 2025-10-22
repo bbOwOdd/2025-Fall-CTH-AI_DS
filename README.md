@@ -1,5 +1,5 @@
 ## 2025 Fall CTH Introduction to Data Science & AI
-Labs of Introduction to Data Science & AI in Chalmers University of Technology
+Course labs of Introduction to Data Science & AI in Chalmers University of Technology
 
 ## Lab1-Weather
 Be familiar with python library such as numpy, matplotlib, pandas.
